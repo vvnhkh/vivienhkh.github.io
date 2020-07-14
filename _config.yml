@@ -15,8 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Vivien Hui"
-description:	       "original theme by"
-author:              "Paul Le"
+description:	       "portfolio"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
