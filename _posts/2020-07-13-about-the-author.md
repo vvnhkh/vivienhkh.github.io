@@ -3,7 +3,7 @@ layout: post
 title: "About me"
 author: "Vivien Hui"
 categories: facts
-tags: [sample]
+tags: []
 image: cuba-4.jpg
 ---
 
